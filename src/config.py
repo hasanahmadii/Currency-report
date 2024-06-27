@@ -16,17 +16,17 @@ KEY = url+API_KEY
 rules = {
     'archive': True,
     'email': {
-        'RECEIVER': 'hasanahmadi781377@gmail.com',
+        'RECEIVER': 'hasjhhjhmadi781377@gmail.com',
         'paswd': '43d8367dd6349d',
         'user': 'f5064d243c26b8',
-        'sender': 'ha3an19978@gmail.com',
+        'sender': 'hahhu9978@gmail.com',
         'enable': True,
         'is_valid': ["ETB", 'IQD', 'IRR', 'MXN', 'ZMK'],
     },
     'notification': {
         'enable': True,
-        'RECEIVER': '09938557295',
-        'sender': '09219319545',
+        'RECEIVER': '0999887295',
+        'sender': '09290019545',
         'is_valid': {
             'BTC': {'min': 3.70012, 'max': 0.000110},
             'IRR': {'min': 45000, 'max': 50000}
